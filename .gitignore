@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+*.ipynb
+.env
+*.egg-info/
+dist/
+build/
+*.csv
+*.json
+*.zip
+*.wav
+*.bin
+*.arpa
+/content/
